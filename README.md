@@ -14,3 +14,4 @@
 - 📊 Análise de Dados: Python, Pandas, Matplotlib
 - 🤖 Programação Lógica: C, C#
 - 🌐 Desenvolvimento Web: React, Node
+- 🗺️ Geoprocessamento: ArcGIS Pro, QGis
