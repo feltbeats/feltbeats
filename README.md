@@ -1,4 +1,4 @@
-### Hi, I'm Aline! &nbsp;&nbsp;<sup>🎧✩°｡⋆⸜  I try automate things. I test my code. Occasionally, I take pictures.</sup>
+### Hi, I'm Aline! &nbsp;&nbsp;<sup>🎧✩°｡⋆⸜  I'm trying to automate things. Occasionally, I take pictures.</sup>
 
 ----
 
