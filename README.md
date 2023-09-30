@@ -1,18 +1,24 @@
-<h1 align="center">Hi there, I'm Aline, also known as feltbeats! 🌟</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/alineolivaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### Hi, I'm Aline! &nbsp;&nbsp;<sup>🇧🇴 &#12299;I try automate things. I test my code. Occasionally, I take pictures.</sup>
 
-👩‍🎓 I'm a student pursuing a degree in Environmental and Sanitary Engineering at CEFET-MG.
+----
 
-👩‍💻 I'm also a Computer Programmer, with a background from COTEMIG.
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-🧠 I have a deep passion for Logic Programming, Task Automation, and Data Analysis.
+**Pursuing a degree in Environmental and Sanitary Engineering** &#12299;_working in Permitting, Reliability Analytics & Automation_
+<br/>
+**Computer Programmer** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
 
-## 🚀 Skills
+----
 
-- 💻 Programming Languages: JavaScript
-- 📊 Data Analysis: Python, Pandas, Matplotlib
-- 🤖 Logic Programming: C, C#
-- 🌐 Web Development: React, Node
-- 🗺️ Geoprocessing: ArcGIS Pro, QGIS
+<a href="https://linkedin.com/in/alineolivaz">
+  <img align="left" alt="aline's linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://vsco.co/liangles">
+  <img align="left" alt="aline's vsco" width="20px" src="https://simpleicons.now.sh/vsco/495f7e" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
