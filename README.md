@@ -21,4 +21,3 @@
   <img align="left" alt="aline's vsco" width="20px" src="https://simpleicons.now.sh/vsco/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
