@@ -1,16 +1,18 @@
-<h1 align="center">Aline, feltbeats</h1>
+<h1 align="center">Hi there, I'm Aline, also known as feltbeats! 🌟</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/alineolivaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alineolivaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 👩‍🎓 Estudante de Engenharia Ambiental e Sanitária no CEFET-MG.
-- 👩‍💻 Programadora de Computadores.
-- 🧠 Apaixonada por Programação Lógica, Automação de Tarefas e Análise de Dados.
+👩‍🎓 I'm a student pursuing a degree in Environmental and Sanitary Engineering at CEFET-MG.
 
-## 🚀 Habilidades
+👩‍💻 I'm also a Computer Programmer, with a background from COTEMIG.
 
-- 💻 Linguagens de Programação: JavaScript
-- 📊 Análise de Dados: Python, Pandas, Matplotlib
-- 🤖 Programação Lógica: C, C#
-- 🌐 Desenvolvimento Web: React, Node
-- 🗺️ Geoprocessamento: ArcGIS Pro, QGis
+🧠 I have a deep passion for Logic Programming, Task Automation, and Data Analysis.
+
+## 🚀 Skills
+
+- 💻 Programming Languages: JavaScript
+- 📊 Data Analysis: Python, Pandas, Matplotlib
+- 🤖 Logic Programming: C, C#
+- 🌐 Web Development: React, Node
+- 🗺️ Geoprocessing: ArcGIS Pro, QGIS
