@@ -10,7 +10,7 @@
 
 **Pursuing a degree in Environmental and Sanitary Engineering** &#12299;_working in Permitting, Reliability Analytics & Automation_
 <br/>
-**Computer Programmer** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+**Computer Programmer**
 
 ----
 
