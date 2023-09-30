@@ -7,7 +7,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**Pursuing a degree in Environmental and Sanitary Engineering** &#12299;_working in Permitting, Reliability Analytics & Automation_
+**Pursuing a degree in Environmental and Sanitary Engineering** &#12299;_working in Permitting, Geoprocessing, Reliability Analytics & Automation_
 <br/>
 **Computer Programmer**
 
