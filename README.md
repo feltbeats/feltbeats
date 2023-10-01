@@ -13,7 +13,7 @@
 
 ----
 
-<a href="https://linkedin.com/in/alineolivaz">
+<a href="https://linkedin.com/in/feltbeats">
   <img align="left" alt="aline's linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://vsco.co/liangles">
