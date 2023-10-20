@@ -1,4 +1,4 @@
-### Hi, I'm Aline! &nbsp;&nbsp;<sup>🎧✩°｡⋆⸜  I'm trying to automate things. Occasionally, I take pictures.</sup>
+### Hi, I'm Aline! &nbsp;&nbsp;<sup> trying to automate things and occasionally <a href="https://vsco.co/alinevajz">taking pictures</a></sup>
 
 ----
 
