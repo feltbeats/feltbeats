@@ -9,7 +9,7 @@
 
 **Pursuing a degree in Environmental and Sanitary Engineering** &#12299;_working in Permitting, Geoprocessing, Reliability Analytics & Automation_
 <br/>
-**Also a Computer Programmer** &#12299;_habilities in JavaScript (React and Node), C# (.NET) and Python_
+**Computer Programmer** &#12299;_habilities in JavaScript (React and Node), C# (.NET) and Python_
 
 ----
 
