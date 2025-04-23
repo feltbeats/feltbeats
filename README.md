@@ -13,10 +13,10 @@
 
 ----
 
-<a href="https://linkedin.com/in/feltbeats">
+<a href="https://linkedin.com/in/aaovaz">
   <img align="left" alt="aline's linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://vsco.co/liangles">
+<a href="https://vsco.co/alinevajz">
   <img align="left" alt="aline's vsco" width="20px" src="https://simpleicons.now.sh/vsco/495f7e" />
 </a>
 
